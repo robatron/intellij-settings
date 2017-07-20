@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yaml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,13 +20,16 @@
       <mask>*.{less,j</mask>
       <mask>*.{less,js</mask>
       <mask>*.{less,js}</mask>
-      <mask>*.j</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.ya</mask>
+      <mask>*.yam</mask>
+      <mask>*.yaml</mask>
     </recentFileMasks>
   </component>
 </application>
