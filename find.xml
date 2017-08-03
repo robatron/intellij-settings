@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.js" />
@@ -15,14 +17,22 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
+      <mask>*.jsx</mask>
+      <mask>*.{less</mask>
+      <mask>*.{less,</mask>
+      <mask>*.{less,j</mask>
+      <mask>*.{less,js</mask>
+      <mask>*.{less,js}</mask>
       <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
       <mask>*.l</mask>
+      <mask>*.ya</mask>
+      <mask>*.yam</mask>
+      <mask>*.yaml</mask>
+      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.jsx</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
