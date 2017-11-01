@@ -2,23 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ZonTest*" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.jsx</mask>
-      <mask>*.{less</mask>
-      <mask>*.{less,</mask>
-      <mask>*.{less,j</mask>
-      <mask>*.{less,js</mask>
-      <mask>*.{less,js}</mask>
-      <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
@@ -31,11 +17,24 @@
       <mask>*.t.js</mask>
       <mask>*.test..js</mask>
       <mask>*.test.js</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>z</mask>
+      <mask>zon</mask>
+      <mask>zont</mask>
+      <mask>zontest</mask>
+      <mask>zontest.</mask>
+      <mask>*</mask>
+      <mask>*Z</mask>
+      <mask>*Zon</mask>
+      <mask>*ZonT</mask>
+      <mask>*ZonTest</mask>
+      <mask>*ZonTest.</mask>
+      <mask>*ZonTest.ja</mask>
+      <mask>*ZonTest.java</mask>
+      <mask>*ZonTest*</mask>
     </recentFileMasks>
   </component>
 </application>
