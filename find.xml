@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*.ya</mask>
       <mask>*.yam</mask>
@@ -19,13 +18,11 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*.</mask>
       <mask>z</mask>
       <mask>zon</mask>
       <mask>zont</mask>
       <mask>zontest</mask>
       <mask>zontest.</mask>
-      <mask>*</mask>
       <mask>*Z</mask>
       <mask>*Zon</mask>
       <mask>*ZonT</mask>
@@ -34,6 +31,10 @@
       <mask>*ZonTest.ja</mask>
       <mask>*ZonTest.java</mask>
       <mask>*ZonTest*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
