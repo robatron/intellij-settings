@@ -1,5 +1,6 @@
 <code_scheme name="Default">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="RIGHT_MARGIN" value="80" />
   <option name="HTML_QUOTE_STYLE" value="Single" />
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
